@@ -1,0 +1,36 @@
+{
+    "name": "tea-auto-bot",
+    "version": "1.0.0",
+    "description": "Automated CLI tool for interacting with Tea Sepolia Testnet",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/airdropinsiders/Tea-Auto-Bot.git"
+    },
+    "keywords": [
+      "tea",
+      "blockchain",
+      "ethereum",
+      "crypto",
+      "staking",
+      "cli"
+    ],
+    "author": "Airdrop Insiders",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/airdropinsiders/Tea-Auto-Bot/issues"
+    },
+    "homepage": "https://github.com/airdropinsiders/Tea-Auto-Bot#readme",
+    "dependencies": {
+      "chalk": "^2.4.2",
+      "cli-spinners": "^2.7.0",
+      "dotenv": "^16.0.3",
+      "ethers": "^5.7.2",
+      "https-proxy-agent": "^7.0.0",
+      "readline": "^1.3.0"
+    }
+  }
