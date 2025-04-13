@@ -15,7 +15,7 @@ A command-line interface (CLI) tool for automating interactions with the Tea Sep
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/airdropinsiders/Tea-Auto-Bot.git
+git clone https://github.com/Rosellines/Tea-Autobot.git
 cd Tea-Auto-Bot
 ```
 
@@ -34,7 +34,7 @@ PRIVATE_KEY=your_private_key_here
 To use proxies with the bot, create a `proxies.txt` file in the root directory with one proxy per line in the format:
 ```
 ip:port
-ip:port:username:password
+http://username:password@username:password
 ```
 
 ## Usage
